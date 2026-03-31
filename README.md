@@ -23,3 +23,7 @@
    Experimentează cu stiluri și layout-uri CSS.
 
 6. Creează un workflow care va automatiza procesul de preluare și publicare pe GitHub Pages a paginii create.
+
+## Rezultat
+
+Site-ul publicat este accesibil la: https://samvalentin7.github.io/CICD-Laborator4/
